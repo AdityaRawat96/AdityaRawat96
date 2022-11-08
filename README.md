@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aditya.
-- 👀 I’m interested in working on new projects that I find intriguing.
+- 👀 I’m interested in working on ideas that I find intriguing.
 - 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on mobile and web applications.
 - 📫 Reach out to me at aditya@clarteresearch.com
