@@ -5,7 +5,10 @@
     <img src="https://komarev.com/ghpvc/?username=AdityaRawat96&color=0079fa&style=flat-square&label=PROFILE+VIEWS" alt="profile view counter">
 </p> 
 <br>
-<a href="https://clarteresearch.com" style="padding-bottom: 50px"> <img align='right' src="assets/loho-hd.png" width="200" alt="Clarte Logo" /></a>
+<a href="https://clarteresearch.com" style="margin-bottom: 50px"> 
+<img align='right' src="assets/loho-hd.png" width="100" alt="Clarte Logo" />
+<br/>
+</a>
 <p>
 - 👋 Hi, I’m Aditya. <br/>
 - 👀 I’m interested in working on ideas that I find intriguing. <br/>
