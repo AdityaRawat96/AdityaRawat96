@@ -10,11 +10,11 @@
 <br/>
 </a>
 <p>
-- 👋 Hi, I’m Aditya. <br/>
-- 👀 I’m interested in working on ideas that I find intriguing. <br/>
-- 🌱 I’m currently learning Node JS and Azure. <br/>
-- 💞️ I’m looking to collaborate on projects related mobile and web development. <br/>
-- 📫 Reach out to me at aditya@clarteresearch.com <br/>
+-  Hi, I’m Aditya. <br/>
+-  I’m interested in working on ideas that I find intriguing. <br/>
+-  I’m currently learning Node JS and Azure. <br/>
+-  I’m looking to collaborate on projects related mobile and web development. <br/>
+-  Reach out to me at aditya@clarteresearch.com <br/>
 </p>
 <br/>
 
