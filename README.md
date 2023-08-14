@@ -18,4 +18,4 @@
 </p>
 <br/>
 
-[![AdityaRawat96's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=AdityaRawat96&custom_title=AdityaRawat96's%20GitHub%20Activity%20Graph&bg_color=000000&color=0079fa&line=2100fa&point=0079fa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![AdityaRawat96's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AdityaRawat96&custom_title=AdityaRawat96's%20GitHub%20Activity%20Graph&bg_color=000000&color=0079fa&line=2100fa&point=0079fa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
