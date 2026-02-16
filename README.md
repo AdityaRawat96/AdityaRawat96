@@ -13,7 +13,7 @@
 <br/>
 </a>
 <p>
-- Hi, I’m Aditya Rawat.<br/>
+- Hi, I’m Aditya from <a href="https://www.clarteresearch.com"><b>Clarté</b></a><br/>
 - I’m passionate about building impactful and scalable technology solutions.<br/>
 - Currently deepening my expertise in AI and product design.<br/>
 - Open to collaborating on web and mobile development projects.<br/>
