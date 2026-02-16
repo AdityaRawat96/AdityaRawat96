@@ -1,4 +1,6 @@
-<img src="assets/ezgif.com-crop.gif" align="middle" alt="Hey, I'm Aditya Welcome to my Profile! animated typed out" width="100%">
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=2000&color=2CF747&width=435&lines=Hi!+I%E2%80%99m+Aditya+-+engineer+%26+builder;Shipping+products+that+scale+%F0%9F%9A%80" alt="Typing SVG"  width="100%"/>
+</a>
 <img  src="assets/borderseperator.gif">
 
 <p>
