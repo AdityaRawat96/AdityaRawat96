@@ -17,7 +17,7 @@
 - I’m passionate about building impactful and scalable technology solutions.<br/>
 - Currently deepening my expertise in AI and product design.<br/>
 - Open to collaborating on web and mobile development projects.<br/>
-- You can reach me at aditya@clarteresearch.com<br/>
+- You can reach me at <a href="mailto:aditya@clarteresearch.com"><b>aditya@clarteresearch.com</b></a><br/>
 </p>
 <br/>
 
