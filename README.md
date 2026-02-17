@@ -1,12 +1,10 @@
 <a href="https://clarteresearch.com">
   <img src="assets/clarte-logo-wide.png" width="100%" alt="Clarte Logo" />
 </a>
-<img src="https://readme-typing-svg.demolab.com?font=Raleway&duration=2000&pause=1000&color=F7F7F7&background=000000&center=true&vCenter=true&width=800&height=100&lines=Solving+complex+business+challenges...;Delivering+measurable+results+%F0%9F%9A%80%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Raleway&duration=2000&pause=1000&color=30CC2B&center=true&vCenter=true&width=800&height=100&lines=Solving+complex+business+challenges...;Delivering+measurable+results+%F0%9F%9A%80%F0%9F%9A%80" alt="Typing SVG" width="100%" />
 <img src="assets/borderseperator.gif" alt="border" width="100%" />
-<p>
-    <img src="https://komarev.com/ghpvc/?username=AdityaRawat96&color=0079fa&style=flat-square&label=PROFILE+VIEWS" alt="profile view counter" />
-</p>
-<br>
+
+<img src="https://komarev.com/ghpvc/?username=AdityaRawat96&color=0079fa&style=flat-square&label=PROFILE+VIEWS" alt="profile view counter" />
 
 <img align='right' src="assets/developer.gif" width="350px" alt="Clarte Logo" />
 
