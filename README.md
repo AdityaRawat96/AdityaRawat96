@@ -9,11 +9,6 @@
 <img align='right' src="assets/developer.gif" width="350px" alt="Clarte Logo" />
 
 <div id="user-content-toc toc">
-  <ul align="center" style="list-style: none;">
-    <summary><h2>&nbsp;</h2></summary>
-  </ul>
-</div>
-<div id="user-content-toc toc">
   <ul style="list-style: none;">
     <summary>
       <h2>Hi, I’m Aditya from <a href="https://www.clarteresearch.com">Clarté</a></h2>
